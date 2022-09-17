@@ -49,6 +49,6 @@ Besides these materials, you can find the course materials on [Canvas](https://c
 And a lot of amazing [visualization examples and datasets](./tutorial03)!
 
 ## Credits
-These materials are created by [Leo Yu Ho Lo](https://leoyuholo.com), [Yao Ming](http://www.myaooo.com) and [Li Wenchao](http://www.cse.ust.hk/~wlibs).
+The course materials for COMP4462 Data Visualization in HKUST are maintained by [Linping Yuan](https://yuanlinping.top/) and [Haotian Li](https://haotian-li.com/). These materials are originally created by [Leo Yu Ho Lo](https://leoyuholo.com), [Yao Ming](http://www.myaooo.com) and [Li Wenchao](http://www.cse.ust.hk/~wlibs).
 
-And thanks to [Prof. Huamin Qu](http://huamin.org) teaching this amazing course!
+And thanks to [Prof. Huamin Qu](http://huamin.org) and [Prof. Xiaojuan Ma](https://www.cse.ust.hk/~mxj/) teaching this amazing course!
